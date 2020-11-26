@@ -89,25 +89,25 @@ Mᴇʀᴄʜᴇɴᴛ:- ***$indusmerchant***
                
 ➤  ʀᴇᴄᴇɴᴛ ᴜᴘᴅᴀᴛᴇs:- 
 
-`$indusupdate1`
-
-`$indusupdate2`
-
-`$indusupdate3`
-
-`$indusupdate4`
-
-`$indusupdate5`
-
-`$indusupdate6`
-
-`$indusupdate7`
-
-`$indusupdate8`
+`$indusupdate10`
 
 `$indusupdate9`
 
-`$indusupdate10`",
+`$indusupdate8`
+
+`$indusupdate7`
+
+`$indusupdate6`
+
+`$indusupdate5`
+
+`$indusupdate4`
+
+`$indusupdate3`
+
+`$indusupdate2`
+
+`$indusupdate1`",
 'parse_mode'=>"MarkDown",
                 ]);
                 }
