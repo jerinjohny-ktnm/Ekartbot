@@ -85,7 +85,7 @@ bot('sendmessage', [
                 
 Cᴜʀʀᴇɴᴛ sᴛᴀᴛᴜs:- ***$indus_status***
 
-Mᴇʀᴄʜᴇɴᴛ:- ***$indusmerchant***
+Mᴇʀᴄʜᴀɴᴛ:- ***$indusmerchant***
                
 ➤  ʀᴇᴄᴇɴᴛ ᴜᴘᴅᴀᴛᴇs:- 
 
