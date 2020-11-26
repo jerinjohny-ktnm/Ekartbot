@@ -1,1 +1,24 @@
-
+{
+    "name": "Ekart bot",
+    "description": "A Php telegram bot made for tracking Ekart shipments.",
+    "keywords": [
+        "PHP",
+        "Bot",
+        "Telegram"
+    ],
+    "logo": "",
+    "repository": "https://github.com/Benchamxd/Ekartbot",
+    "success_url": "/",
+    "env": {
+        "API_TOKEN": {
+            "description": "Telegram Bot API Token,Get it from @BotFather"
+        },
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
