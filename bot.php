@@ -55,7 +55,9 @@ if ($text == "/start") {
 
             bot('sendmessage', [
                 'chat_id' =>$chat_id,
-                'text' =>"Hemlo",
+                'text' =>"***$START_MESSAGE
+
+Send your Ekart Tracking ID***",
  'parse_mode'=>'MarkDown',
             
         ]);
