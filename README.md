@@ -16,7 +16,7 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 # COMMANDS
 
-``/start - To stat the bin``
+``/start - To stat the bot``
 
 ## HELP ME
 
