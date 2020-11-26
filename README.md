@@ -27,4 +27,4 @@ For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/indusch
 
 **DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
 
-THANKS TO []()FOR HIS EKART API
+THANKS TO [Tuhin](https://github.com/cachecleanerjeet) FOR HIS EKART API
