@@ -1,5 +1,5 @@
 # Ekartbot
-A Ekart Shipment Tracking bot Made using Unofficial Api Of Ekart.
+An Ekart Shipment Tracking bot Made using Unofficial Api Of Ekart.
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
@@ -26,3 +26,5 @@ For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/indusch
 ##
 
 **DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
+
+THANKS TO []()FOR HIS EKART API
