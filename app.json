@@ -1,18 +1,21 @@
 {
-    "name": "Ekart bot",
-    "description": "A Php telegram bot made for tracking Ekart shipments.",
+    "name": "Bin-Checker Bot",
+    "description": "A simple bot to check if the bin is valid or not.",
     "keywords": [
-        "PHP",
+        "Bin",
         "Bot",
-        "Telegram"
+        "Telegra."
     ],
-    "logo": "",
-    "repository": "https://github.com/Benchamxd/Ekartbot",
+    "website": "#TODO",
+    "repository": "https://github.com/Benchamxd/Bin-Checker",
     "success_url": "/",
     "env": {
-        "API_TOKEN": {
-            "description": "Telegram Bot API Token,Get it from @BotFather"
+        "BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
         },
+        "START_MESSAGE": {
+            "description": "A start message for your bot."
+        }
     },
     "formation": {
         "web": {
